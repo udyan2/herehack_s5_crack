@@ -1,0 +1,4 @@
+Factor1 : User Income
+Factor2 : Area Required
+Factor3 : Budget
+Factor4 : Nature of Business
