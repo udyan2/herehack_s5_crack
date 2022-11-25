@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+     @apply bg-gray-100
+}
+.box{
+    @apply w-[30vw] h-[2.5rem] focus:outline-none font-semibold text-lg bg-gray-50 border border-gray-500 pl-2
+}
